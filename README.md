@@ -4,7 +4,7 @@ React, Redux Toolkit, Tailwind CSS, and React Router client for the ERA marketpl
 
 ## Run locally
 
-1. Start the API and MongoDB using the instructions in `backend/README.md`.
+1. Start the API and MongoDB using the setup instructions in the [ERA-backend repository](https://github.com/Annanya-panda/ERA-backend).
 2. Copy `.env.example` to `.env` and set `VITE_API_URL=http://localhost:4000/api`.
 3. Run `npm install` and `npm run dev`.
 4. Open the Vite URL (normally `http://localhost:5173`).
